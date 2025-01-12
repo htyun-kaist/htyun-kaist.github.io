@@ -13,11 +13,15 @@ layout: default2
   * **ME870 Special Topics in Production Engineering: Advanced Intelligent Manufacturing** <br />생산공학특론: 첨단지능제조공학 <br />2023-24 Fall
   * **ME203 Mechatronics System Design** <br />메카트로닉스 시스템 디자인<br />2024 Fall
 
+<br>
+
 ## 내부 강연
 
   * (2024. 9. 4.) 자율 제조를 위한 인공지능, 인간과 기계 수업
   * (2024. 4. 3.) 사람-인공지능 협업을 통한 스마트 제조, 기계공학과 새내기 세미나
   *	(2023. 9. 7.)  사람-기계-인공지능 협업 생산, ME106 인간과 기계 수업
+
+<br>
 
 ## 전문 교육
   
