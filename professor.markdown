@@ -8,7 +8,7 @@ layout: default2
 ![yun](pp_yun.jpg)
 
 #### Dr. Huitaek Yun (윤희택)
-  * Assistant Professor<br />Department of Mechanical Engineering<br />Koread Advanced Institue of Science and Technology (KAIST)
+  * Assistant Professor<br />Department of Mechanical Engineering<br />Koread Advanced Institue of Science and Technology (KAIST)<br />
   Participating Professor, Robotics Engineering Interdisciplinary Major<br />
   Committee member, AI Manufacturing Center<br />
   * [Google Scholar](https://scholar.google.com/citations?user=-1agGGkAAAAJ&hl=ko)
