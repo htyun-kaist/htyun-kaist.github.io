@@ -53,12 +53,12 @@ We are looking for highly motivated candidates in these topics. If you are inter
 #### 대학원 석/박사 프로그램 (Domestic)
 
  * _(구분 선택 문의는 원서 접수 전에 연락 바랍니다.)_
- * 기계공학과 석박사과정: 국비/KAIST 장학생, 일반, 군학
+ * 기계공학과 석박사과정: 국비/KAIST장학생, 일반, 군학
  * 로봇공학학제 석박사과정: KAIST 장학생, REPS-KAIST (삼성전자), 일반
 
 #### KAIST 학부생 연구 참여
  * Individual study (개별 연구)
  * URP
  * Undergraduate thesis (학사 논문)
- * Co-op 
- * Free study (학기/방학 중 자유 연구)
+ * Co-op
+ 

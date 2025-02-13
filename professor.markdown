@@ -8,9 +8,11 @@ layout: default2
 ![yun](pp_yun.jpg)
 
 #### Dr. Huitaek Yun (윤희택)
-  * Assistant Professor<br />Department of Mechanical Engineering<br />Koread Advanced Institue of Science and Technology (KAIST)<br />
+  * Assistant Professor, Department of Mechanical Engineering<br />
   Participating Professor, Robotics Engineering Interdisciplinary Major<br />
   Committee member, AI Manufacturing Center<br />
+  Koread Advanced Institue of Science and Technology (KAIST)<br />
+  
   * [Google Scholar](https://scholar.google.com/citations?user=-1agGGkAAAAJ&hl=ko)
   * [ORCiD](https://orcid.org/0000-0002-4136-7947)
 
@@ -34,7 +36,7 @@ layout: default2
 ### Professional Activities
  
 #### Domestic
-  * 한국정밀공학회: 공작기계 부문이사 (2023-), 편집 이사 (2025-), MAKER Korea 위원 (2024-)
+  * 한국정밀공학회: 공작기계 부문이사 (2023-), MAKER Korea 위원 (2024-), 편집 이사 (2025-)
   * 한국소성·가공학회: 학술 이사 (2024-), 자율제조부문장 (2024-)
   * 대한기계학회 동역학·제어·로봇부문 전문이사 (2024-)
 
