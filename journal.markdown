@@ -6,6 +6,10 @@ layout: default2
 ---
 ## Published Papers
 
+### 2025
+
+  * Kim, E., Jeon, J., Kim, Y. et al. Control-Resilient Roller Wear Prediction for Thin Wire Flattening Process via an Internal Sound-Guided Dynamic Conditional Network. Int. J. of Precis. Eng. and Manuf.-Green Tech. (2025). [[DOI]](https://doi.org/10.1007/s40684-025-00712-5)
+  
 ### 2024
 
   * Park, H., Shin, M., Choi, G., Sim, Y., Lee, J., Yun, H., … & Yi, H. "Integration of an exoskeleton robotic system into a digital twin for industrial manufacturing applications," Robotics and Computer-Integrated Manufacturing, 89, 102746 (2024). [[DOI]](https://doi.org/10.1016/j.rcim.2024.102746)

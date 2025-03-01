@@ -36,13 +36,14 @@ Email. htyun at kaist.ac.kr<br />
 We are looking for highly motivated candidates in these topics. If you are interested, please contact Dr. Yun with your CV or resume.
 
 #### Research Topics
- * Autonomous Robotic Manufacturing via AI and machine vision: machine tending, bin picking applications
- * Mixed reality & LLM Interfaces for Human-AI Collaborative Manufacturing: digitalizing human skills, human-robot collaborative manufacturing, tele-manufacturing
+ * Autonomous Robotic Manufacturing via AI and machine vision: machine tending, bin picking applications 
  * Virtual commissioning of manufacturing system via digital twin: visualization, collision prediction, smart planning, virtual AI training, Haptics
+ * Mixed reality & LLM Interfaces for Human-AI Collaborative Manufacturing: digitalizing human skills, human-robot collaboration, tele-manufacturing
+ * Investigating Manufacturability via AI: Pointcloud to B-rep conversion, identifying machining features 
  * Smart Monitoring and Control of Manufacturing Systems & Processes: machine tools, additive manufacturing of composites
  * Related Areas: Manufacturing Engineering, Dynamics, Measurement & Control, Mechatronics, Digital Signal Processing, Machine Learning, Mixed Reality
 
-#### Researchers (Domestic & International, oustside KAIST)
+#### Researchers (Domestic & International, External from KAIST)
  * Postdoc
  * Graduate & Undergraduate Intern  
 
@@ -52,8 +53,8 @@ We are looking for highly motivated candidates in these topics. If you are inter
 
 #### 대학원 석/박사 프로그램 (Domestic)
 
- * _(구분 선택 문의는 원서 접수 전에 연락 바랍니다.)_
- * 기계공학과 석박사과정: 국비/KAIST장학생, 일반, 군학
+ * _(구분별 T/O 문의는 원서 접수 전에 연락 바랍니다.)_
+ * 기계공학과 석박사과정: 국비/KAIST장학생, REPS-KAIST (삼성전자), 일반, 군학
  * 로봇공학학제 석박사과정: KAIST 장학생, REPS-KAIST (삼성전자), 일반
 
 #### KAIST 학부생 연구 참여
