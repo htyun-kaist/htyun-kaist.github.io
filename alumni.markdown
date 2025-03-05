@@ -7,21 +7,18 @@ layout: default2
 
 ## Graduate Interns
     
-<div class="grid-container">
-    <div class="align_img">
+<div class="people">
+    <div>
         <figure>
-            <img width="120" src="/pp_s_yonghwan.jpg"/>
+            <img width="90" src="/pp_s_yonghwan.jpg"/>
         </figure>
-    </div>       
-    <div class="centered-text">
-        <p>
-            <strong>Yonghwan Kim (김용환)</strong><br><br>   
-            To PhD program @ GIST<br />
-            Sep.-Dec., 2024<br>B.S. Mechanical Engineering, Chungnam National University<br />(충남대학교 기계공학과)
-        </p>        
-    </div>    
-</div>
-
+    </div>           
+    <div class="people_text">
+        <strong>Yonghwan Kim (김용환)</strong><br><br>   
+        To PhD program @ GIST<br />
+        Sep.-Dec., 2024<br>B.S. Mechanical Engineering, Chungnam National University<br />충남대학교 기계공학과
+    </div> 
+ </div> 
 
 ## KAIST Undergraduates
 

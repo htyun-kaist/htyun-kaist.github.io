@@ -7,13 +7,13 @@
     list-style: none;
     height: 40px;
     padding: 5px 1px;
-    margin: 0;    
+    margin: 0;        
 }
 
 #nav li{
     float: left;
     position: relative;
-    margin: 5px 10px;
+    margin: 5px 5px;
     padding: 0;
 }
 
@@ -30,11 +30,12 @@
     text-shadow: 0 1px 1px rgba(0, 0,0, 0.3);
 }
 
+// 메인 메뉴 버튼위에 마우스를 올렸을때
 #nav li:hover > a{
     background: #454545;
-    //color: black;
-    //margin: 0;
-    //padding: 5px;
+    // color: black;
+    // margin: 0;
+    // padding: 5px;
 }
 
 #nav ul{
@@ -44,7 +45,7 @@
     position: absolute;
     left: 0;
     top: 40px;
-    width: 105px;
+    width: 120px;
     background: #a8a8a8;
     text-align: center;
     opacity: 0;
@@ -62,13 +63,17 @@
     color: black;
 }
 
+// 드롭박스메뉴 마우스를 올렸을때때
 #nav ul li:hover a{
     background: #c1c1c1;
-    font-weight: bold;    
+    //font-weight: bold;    
+    
 }
 
 #nav li:hover ul{
+    position:absolute;
     opacity: 1;
+    z-index: 1;
 }
 #nav li:hover ul li{
     height: 40px;
@@ -76,22 +81,29 @@
     padding:0;
 
 }
-
 .grid-container {
     display: grid;  
-    grid-template-columns: 30% 70%;
+    grid-template-columns: 40% 60%;
   
   }
   
 .align_img img {
-margin-left: auto;
-margin-right: auto;
-display: block;
+margin-left: 5%;
+margin-right: 5%;
+display: grid;
 }
   
-.centered-text p{
-margin: 0;
-position: relative;
-top: 50%;
-transform: translateY(-50%);
+// .centered-text p{
+// margin: 0;
+// position: relative;
+// top: 50%;
+// transform: translateY(-50%);
+// }
+
+.people {
+    display:grid;
+    grid-template-columns: 120px auto;
+}
+.people_text {
+    padding: 15px 0;
 }
