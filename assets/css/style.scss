@@ -4,16 +4,19 @@
 @import "{{ site.theme }}";
 
 #nav {
+    //display:flex;
     list-style: none;
     height: 40px;
     padding: 5px 1px;
     margin: 0;        
+
 }
 
 #nav li{
-    float: left;
+    //display: inline; //new
+    float: left;    
     position: relative;
-    margin: 5px 5px;
+    margin: 2px 2px;
     padding: 0;
 }
 
@@ -22,7 +25,7 @@
     //#font-family: "맑은 고딕";
     font-weight: bold;
     font-size: 18px;
-    padding: 7px 8px;
+    padding: 4px 5px;
     margin: 0;
     color: #fff;
     margin:0;

@@ -86,6 +86,15 @@ layout: default2
         <strong>Yongbin Cho | 조용빈</strong><br><br>               
         Joined in Mar. 2025<br>B.S. Mechanical Engineering, KAIST <br />한국과학기술원 기계공학과
     </div> 
+        <div>
+        <figure>
+            <img width="90" src="/pp_s_bonggyeong.jpg"/>
+        </figure>
+    </div>           
+    <div class="people_text">
+        <strong>Bonggyeong Park | 박봉경</strong><br><br>               
+        Joined in Mar. 2025<br>B.S. Mechanical Engineering, Kyunghee University <br />경희대학교 기계공학과
+    </div> 
 
 </div>
 ## Graduate Interns
@@ -100,4 +109,13 @@ layout: default2
         <strong>Seongwon Jang | 장성원</strong><br><br>   
         Joined in Sep. 2024<br>B.S., M.S. in Mechanical Engineering, Yonsei University <br />연세대학교 기계공학과
     </div> 
- </div> 
+    <div>
+        <figure>
+            <img width="90" src="/pp_s_minkyun.png"/>
+        </figure>
+    </div>           
+    <div class="people_text">
+        <strong>Minkyun Kim | 김민균</strong><br><br>   
+        Joined in Mar. 2025<br>B.S. in Cyber Defence, Korea University <br />고려대학교 사이버국방학과
+    </div> 
+</div> 

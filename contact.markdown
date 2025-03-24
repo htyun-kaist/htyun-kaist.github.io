@@ -61,13 +61,8 @@ We are looking for highly motivated candidates in these topics. If you are inter
  * Individual study (개별 연구)
  * URP
  * Undergraduate thesis (학사 논문)
+ * Co-Op
 
-##### 2025가을,겨울 CO-OP (연구실-한국기계연구원 연계)
 
-한국기계연구원 초정밀장비연구실은 저희 연구실과 공작기계 보조 로봇 자율화와 관련된 공동 연구를 수행중입니다. <br> 이번 CO-OP을 통해 Nvidia Isaac Sim 을 통한 제조 로봇 강화학습 연구에 참여할 KAIST 학부생을 모집하고 있습니다. CO-OP 수행 중 저희 연구실과 연계하여 로봇 자율화에 대한 연구 또한 진행합니다. CO-OP 수행시 가을/겨울학기동안 총 22학점을 인정받으며, 소정의 급여 또한 지급됩니다. 참여를 원하는 학부생은 지원 전 저에게 연락 바랍니다.
-* 2025.3.31. 학부생 설명회
-* 2025.4.25. 학생 신청서 접수
-* 2025.6~8월 연구실 연계 선행 학습
-* 2025.9월~2026.2월 현장실습
  
  
