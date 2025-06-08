@@ -56,7 +56,7 @@ We are looking for highly motivated candidates in these topics. If you are inter
 
 #### 대학원 석/박사 프로그램 (Domestic)
 
- * _(구분별 T/O는 원서 제출 전에 문의 바랍니다.)_
+ * _(과정별 T/O 여부는 원서 제출 전에 문의 바랍니다.)_
  * 기계공학과 석박사과정: 국비/KAIST장학생, REPS-KAIST (삼성전자), 일반, 군학
  * 로봇공학학제 석박사과정: KAIST 장학생, REPS-KAIST (삼성전자), 일반
 
