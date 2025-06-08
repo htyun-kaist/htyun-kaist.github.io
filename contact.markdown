@@ -9,8 +9,8 @@ layout: default2
 
 #### Dr. Huitaek Yun
 
-Assistant Professor<br />
-Department of Mechanical Engineering<br />
+Assistant Professor, Department of Mechanical Engineering<br />
+Adjunct Professor, Program of Robotics<br />
 Korea Advanced Institute of Science and Technology (KAIST)<br />
 <br>
 291 Daehak-ro, Yuseong-gu <br />
@@ -21,6 +21,7 @@ Daejeon 34141
 #### 윤희택 교수
 
 기계공학과 조교수<br />
+로봇공학학제 겸임교수<br />
 한국과학기술원 (KAIST)<br />
 대전광역시 유성구 대학로291 <br />N7-3 기계공학동 동관 4205호 <br />우편번호 34141
 <br>
@@ -36,12 +37,14 @@ Email. htyun at kaist.ac.kr<br />
 We are looking for highly motivated candidates in these topics. If you are interested, please contact Dr. Yun with your CV or resume.
 
 #### Research Topics
- * Autonomous Robotic Manufacturing via AI and machine vision: machine tending, bin picking applications 
- * Virtual commissioning of manufacturing system via digital twin: visualization, collision prediction, smart planning, virtual AI training, Haptics
+ * Digital twin of machine tools and robots: Virtual commissioning,  collision prediction, smart planning, virtual AI training 
+ * Manufacturing AI for monitoring and control: machining, CFRP layup, 3D printing, machine vision inspection
  * Mixed reality & LLM Interfaces for Human-AI Collaborative Manufacturing: digitalizing human skills, human-robot collaboration, tele-manufacturing
- * Investigating Manufacturability via AI: Pointcloud to B-rep conversion, identifying machining features 
- * Smart Monitoring and Control of Manufacturing Systems & Processes: machine tools, additive manufacturing of composites
- * Related Areas: Manufacturing Engineering, Dynamics, Measurement & Control, Mechatronics, Digital Signal Processing, Machine Learning, Mixed Reality
+ * Investigating Manufacturability via AI: Pointcloud to B-rep conversion, identifying machining features    
+ 
+#### Related areas
+ * Manufacturing, Measurement & Control, Mechatronics, Dynamics, Digital Signal Processing, Machine Learning, Mixed Reality
+ * Recommended prerequisite: Python/C++/C# programming for ROS, Nvidia Isaac sim, Tensorflow and Pythorth, Unity and Unreal, Microcontrollers, Linux
 
 #### Researchers (Domestic & International, External from KAIST)
  * Postdoc
@@ -53,7 +56,7 @@ We are looking for highly motivated candidates in these topics. If you are inter
 
 #### 대학원 석/박사 프로그램 (Domestic)
 
- * _(구분별 T/O 문의는 원서 제출 전에 연락 바랍니다.)_
+ * _(구분별 T/O는 원서 제출 전에 문의 바랍니다.)_
  * 기계공학과 석박사과정: 국비/KAIST장학생, REPS-KAIST (삼성전자), 일반, 군학
  * 로봇공학학제 석박사과정: KAIST 장학생, REPS-KAIST (삼성전자), 일반
 

@@ -4,35 +4,36 @@
 
 layout: default2
 ---
+## 2025
+
+#### Presentation (Domestic)
+  
+  * [구두, 5/23] 윤희택, Matteo Ramella. “기계학습 기반 밀링 공구 마모 예측 모델 분석”, 2025 한국소성·가공학회 춘계학술대회
+  * [구두, 5/22] 윤희택. “기계학습 기반 제조 공정 모니터링”, 2025 한국소성·가공학회 춘계학술대회
+  * [구두, 5/14] 윤희택, 이풍규, 박영건. “복수 제조 로봇 협업을 위한 사이버 물리 시스템 개발,” 2025 한국정밀공학회 춘계학술대회
+  * [구두, 5/1] 윤희택. “강배터리 생산 공정의 로봇 협업을 위한 디지털트윈,” 2025 한국복합재학회 춘계학술대회
+  * [포스터, 4/24] 박영건, 윤희택. “강화학습과 그립 렌치 공간을 활용한 복잡한 환경에서의 견고한 물체 파지,” 2025 대한기계학회 동역학·제어·로봇 부문 춘계학술대회
+  * [포스터, 4/24] 노성인, 윤희택. “반사물체에 대한 직접 교시 기반 로봇 파지: 2채널 깊이+마스크 CNN 파이프라인,” 2025 대한기계학회 동역학·제어·로봇 부문 춘계학술대회
+
 ## 2024
 
 #### Presentation (Domestic)
   
-  * [초청연사, 11/21] 윤희택. "자율 제조를 위한 디지털 트윈 기술 현황 및 전망", 2024 대한기계학회 충청지회 & 한국기계연구원 DX전략연구단 공동학술대회
-  
+  * [초청연사, 11/21] 윤희택. "자율 제조를 위한 디지털 트윈 기술 현황 및 전망", 2024 대한기계학회 충청지회 & 한국기계연구원 DX전략연구단 공동학술대회  
   * [포스터, 11/15] 이풍규, 노성인, 윤희택. “YOLOv8과 고정식 및 이동식 깊이 카메라의 다중 시점 데이터를 활용한 로봇 빈 피킹 공작물 자세 추정 정확도 향상”, 2024 한국정밀공학회 추계학술대회
-
   * [포스터, 11/15] 박영건, 김용환, 윤희택. “그래픽 엔진 기반 산업용 로봇 제조공정의 가상 시운전 플랫폼 개발”, 2024 한국정밀공학회 추계학술대회
-
   * [포스터, 11/14] 천석범, 박영건, 윤희택. “생성형 디자인의 제조 도면 변환을 위한 기계 학습 기반 프레임워크”, 2024 한국정밀공학회 추계학술대회
-
   * [구두, 11/13] 윤희택, 천석범, 박영건. “복수의 산업용 로봇 협업을 위한 디지털 트윈 기반 가상시운전 기술 개발”, 2024 한국정밀공학회 추계학술대회
-
   * [구두, 10/18] 윤희택. “기계학습 기반 절삭공정 공구 마모 모니터링 기술 동향”, 2024 한국소성·가공학회 추계학술대회
-
   * [포스터, 5/10] 이풍규, 노성인, 윤희택. “고정식과 이동식 깊이 카메라의 다중 데이터를 활용한 제조 로봇의 공작물 포즈 인식 정확도 개선”, 2024 한국정밀공학회 춘계학술대회
-
   * [구두, 5/8] 윤희택, 천석범. “대형 항공 부품 가공 및 조립 공정의 복수 로봇 협업을 위한 디지털 트윈 기술”, 2024 한국정밀공학회 춘계학술대회
-
   * [포스터, 4/25] An Ho Tung, 이풍규, 윤희택. “로봇 빈 피킹 정밀도 향상을 위한 다중 3D 포인트 클라우드 활용”, 2024 대한기계학회 동역학·제어·로봇 부문 춘계학술대회
 
 #### Presentation (International)
 
+  * [Poster, 10/25] Lee, P., S. Noh, H. Yun. "Improving the Accuracy of Workpiece Pose Estimation of Robotic Bin Picking from Stationary and Mobile Depth Cameras", The 20th International Conference on Precision Engineering, Tohoku University, Sendai, Japan, 2024.   
   * [Oral, 6/19] Yun, H., “Autonomous robotic bin picking platform learning from human demonstration and YOLOv5,” ASME 19th International Manufacturing Science and Engineering Conference (2024).
-
   * [Oral, 6/18] Han, C., H. Lee, J. Lee, M. Jun, H. Yun. “Digital Twins for Autonomous CNC Equipment Operation,” ASME 19th International Manufacturing Science and Engineering Conference (2024).
-
-
 
 #### Conference Proceedings
 
