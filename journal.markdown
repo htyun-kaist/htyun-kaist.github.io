@@ -8,6 +8,8 @@ layout: default2
 
 ### 2025
 
+  * Hwang, S., Jun, M. B., Min, B. & Yun, H.*. "Collision Prediction Framework Using 3D Geometrical Digital Twins and Smart Manufacturing Middleware," Int. J. Precis. Eng. Manuf.-Smart Tech. (2025). [[DOI]]( https://doi.org/10.57062/ijpem-st.2025.00087)
+
   * Kim, E., Jeon, J., Kim, Y. et al. Control-Resilient Roller Wear Prediction for Thin Wire Flattening Process via an Internal Sound-Guided Dynamic Conditional Network. Int. J. of Precis. Eng. and Manuf.-Green Tech. (2025). [[DOI]](https://doi.org/10.1007/s40684-025-00712-5)
   
 ### 2024
